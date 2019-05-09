@@ -1,5 +1,6 @@
 .ipynb_checkpoints/
 archive/.ipynb_checkpoints
+*.jld2
 *.jl.cov
 *.jl.*.cov
 *.jl.mem
